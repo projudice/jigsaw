@@ -1,0 +1,27 @@
+.containor{
+    border:1px solid #999;
+    position:absolute;
+    background-color:#ffffff;
+}
+.containor1{
+    border:1px solid#999;
+    position:absolute;
+    float: right;
+}
+.containor1 img{
+    width: 100px;
+    height: 100px;
+}
+.kuai{
+    float:left;
+    cursor:pointer;
+    position:relative;
+}
+.btn{
+    position: absolute;
+    right: 50px;
+    top: 300px;
+}
+/*body{*/
+    /*background:#999 url(背景.jpg)*/
+/*}*/
